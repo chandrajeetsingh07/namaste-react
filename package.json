@@ -1,0 +1,27 @@
+{
+  "name": "namase-react",
+  "version": "1.0.0",
+  "description": "This is namaste react by chandrajeet",
+   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrajeetsingh07/namaste-react.git"
+  },
+  "keywords": [],
+  
+  "author": "Chandrajeet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrajeetsingh07/namaste-react/issues"
+  },
+  "homepage": "https://github.com/chandrajeetsingh07/namaste-react#readme",
+  "browserlist": [
+   "last 2 versions"
+    
+  ]
+
+}
